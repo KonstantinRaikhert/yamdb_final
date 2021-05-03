@@ -1,3 +1,4 @@
+![example workflow](https://github.com/raikhert13/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
 # Приложение api_yamdb
 
 ## Это REST API для вашего сервиса - базы отзывов о фильмах, книгах, музыке.
