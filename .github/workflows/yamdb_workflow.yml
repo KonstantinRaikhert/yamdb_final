@@ -74,6 +74,7 @@ jobs:
           passphrase: ${{ secrets.PASSPHRASE }}
           script: |
             cd project
+            docker pull raikhert/api_yamdb
             docker-compose stop
             docker-compose up -d
   send_message:
